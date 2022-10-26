@@ -1,2 +1,1 @@
-# truth_tables
-Truth table solver
+# Truth table solver
